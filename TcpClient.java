@@ -2,7 +2,6 @@
  * from network/..
  * javac network/TcpClient.java java network.TcpClient 
  */
-package network;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
